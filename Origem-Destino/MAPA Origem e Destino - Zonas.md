@@ -20,11 +20,16 @@ Exemplo: Jóquei Clube e Butatã
 ### AA - ORIGEM
 
 1. Selecionar as LINHAS que contém as zonas de interesse.
-2. Transformar as uma tabela de {n, 1}, por meio da soma das duas linhas
+2. Transformar os dados em uma tabela de {n, 2} (duas colunas e várias linhas, uma para cada zona), por meio da soma das duas linhas
+
+|z_d|obs|
+|---|---|
+| 1 | 0 |
+| 2 |12 |
 
 ### AA - DESTINO
 
 1. Selecionar as COLUNAS que contém as zonas de interesse.
-2. Transformar as uma tabela de {n, 1}, por meio da soma das duas colunas.
+2. Transformar as uma tabela de {n, 2}, por meio da soma das duas colunas.
 
 
